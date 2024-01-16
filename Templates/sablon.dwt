@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="../stiller.css">
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div id="kapsayici">
+	<div id="banner"><img src="../resimler/banner.fw.png" width="1000" height="300"></div>
+    <div id="menu">
+      <div class="menueleman"><a href="../index.html">Anasayfa</a></div>
+      <div class="menueleman"><a href="../kinama.html">Kınama Cezası</a></div>
+      <div class="menueleman"><a href="../okuldegistir.html">Okul Değiştirme</a></div>
+      <div class="menueleman"><a href="../okuldanuzaklastirma.html">Okuldan Uzaklaştırma</a></div>
+      <div class="menueleman"><a href="../egitimdisina.html">Eğitim Dışına Çıkarma</a></div>
+    </div>
+    <div id="icerik"><!-- TemplateBeginEditable name="icerik alanı" -->icerik alanı<!-- TemplateEndEditable -->
+    
+    </div>
+</div>
+
+</body>
+</html>
